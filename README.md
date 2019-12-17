@@ -1,3 +1,15 @@
+# Cookiebot breaks draft-js
+
+## Expected behavior
+It can be achieved if you remove `data-blockingmode="auto"` (`public/index.html`)
+
+![](expected.gif)
+
+## Actual buggy behavior
+![](bug.gif)
+
+# Create React App docs 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
